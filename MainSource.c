@@ -2,12 +2,7 @@
 
 int enginecontrol()
 {
-
-printf("the code is for enginecontrol")
-}
-int rearcamera()
-{
-printf("the code is for rearcamera");
+printf("the code is for enginecontrol");
 }
 int main() 
 {
